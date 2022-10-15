@@ -37,3 +37,10 @@ Para esse documento estarei utilizando a ferramenta **Eclipse Ide For Developers
 
 Para utilizar essa ferramenta devemos primeiro definir o ambiente de trabalho, **Workspace**, pode ser uma pasta dentro da área de trabalho ou da pasta Documentos. Vou utilizar uma pasta na área de trabalho para simplificar as explicações nesse documento.
 
+Ao iniciar esta Ide, a primeira coisa que precisamos definir é o workspace. Essa é a tela onde vamos definir esse diretório de trabalho, para isso:
+
+1. clique no botão Browse;
+2. escolha o diretório 
+3. clique no botão Launch.
+
+![eclipse-tela1-workspace](https://user-images.githubusercontent.com/8031302/195968001-9846141a-f403-4c8c-aae6-4018da7705c8.png)
